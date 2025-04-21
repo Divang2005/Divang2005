@@ -4,9 +4,7 @@
 ---
 
 
-
-
-<img align="right" alt="Coding" width="207" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **OOP & DSA core concepts**
@@ -50,9 +48,6 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
   </a> 
 </p>
 
