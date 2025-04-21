@@ -3,12 +3,6 @@
 
 ---
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Divang2005&theme=onestar&margin-w=15" alt=Divang2005 trophies" />
-  </a> 
-</p>
-
 <img align="right" alt="Coding" width="207" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
 
 ### 👨‍💻 About Me:
